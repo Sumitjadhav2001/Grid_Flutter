@@ -65,7 +65,7 @@ class _SetupScreenState extends State<SetupScreen> {
                 ),
               ),
               child: Text(
-                'Create Grid View',
+                'Create Grid',
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
             ),
